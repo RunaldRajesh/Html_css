@@ -1,122 +1,107 @@
-header {
+header 
+{
 	background-color: #435c7c;
 	position: fixed;
-		top: 0px;
-
+	top: 0px;
 }
-
-div .hero img {
-	
-	
+div .hero img
+{
 	width:960px;
 	height: 600px;
-
 }
-div .hero h1{
-
+div .hero h1
+{
 	margin-top: 130px;
 	text-align: center;
 	color: red;
 }
-.detail{
+.detail
+{
 	margin-top: 70px;
-	padding: 10px;
-	
+	padding: 10px;	
 	text-align: center;
 }
-
-ul li {
+ul li 
+{
 	display: inline;
 	font-family: sans-serif;
 	font-size: 15;
-
-
-
 }
-section img{
-	
+section img
+{	
 	width:300px;
-	height:250px;
-	
+	height:250px;	
 }
-nav li a:hover{
-
+nav li a:hover
+{
 	color:#4b4e4f;
 }
-
-nav li a {
+nav li a 
+{
 	color:#daedf2;
 	text-decoration: none;
 }
-body {
-	background-color:#d6d3d1;
-	
+body 
+{
+	background-color:#d6d3d1;	
 }
-header h1{
-
+header h1
+{
 	color: #e87b06;
 	font-family: "Kaushan Script";
-	 
-
 }
-h1{
-
+h1
+{
 	text-align: 10px;
 	letter-spacing: 5px;
-
 }
-
-.grid_5{
-
+.grid_5
+{
 	line-height: 50px;
 }
-.main {
-background-color: #c4916d;
-height: 1650px;
-top:0px;
+.main 
+{
+	background-color: #c4916d;
+	height: 1650px;
+	top:0px;
 }
-.content h1{
-margin-left: 20px;
-color: #8892a;
-font-family: 
+.content h1
+{
+	margin-left: 20px;
+	color: #8892a;
+	font-family: 
 }
-
-.new img{
-width: 450px;
-height: 300px;
-
+.new img
+{
+	width: 450px;
+	height: 300px;
 }
-.grid_6 p{
-
+.grid_6 p
+{
 	padding-top: 0px;
 	font-family: "just another hands";
 	font-size: 15px;
 }
-
-
-.footer{
+.footer
+{
 	background-color:#726e6b; 
 	padding: 15px;
-
-	
-
 }
-.footer p{
-
+.footer p
+{
 	font-size: 16px;
 	font-family: cursive;
 	color: white;
 	margin-left: 30px;
-
 }
-.footer img{
-
-	width:45px;
-	height: 40px;
-
+.foter img
+{
+	width: 45px;
+	height: 40px;	
 	padding-left: 150px;
 }
-.grid_4 p{
+.grid_4 p
+{
 	font-family: "cookie";
 	font-size: 15px;
 }
