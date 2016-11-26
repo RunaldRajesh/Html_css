@@ -8,6 +8,13 @@ div .hero img
 {
 	width:960px;
 	height: 600px;
+	opacity: 0.5;
+	filter:alpha(opacity=50);
+}
+.hero img:hover
+{
+	opacity: 1;
+	filter:alpha(opacity=100);
 }
 div .hero h1
 {
@@ -84,21 +91,13 @@ h1
 }
 .footer
 {
-	background-color:#726e6b; 
+	background-color:#3e4142; 
 	padding: 15px;
+	height: 70px;
 }
-.footer p
+.footer a:hover
 {
-	font-size: 16px;
-	font-family: cursive;
-	color: white;
-	margin-left: 30px;
-}
-.foter img
-{
-	width: 45px;
-	height: 40px;	
-	padding-left: 150px;
+	text-shadow:0 0 3px #dce1e2;
 }
 .grid_4 p
 {
